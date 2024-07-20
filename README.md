@@ -4,12 +4,12 @@
 ```
 {
     "require": {
-        "dimbadil/navi": "dev-master"
+        "edellirom/navi": "dev-master"
     },
     "repositories": [
         {
             "type": "vcs",
-            "url":  "https://Dimbadil@bitbucket.org/Dimbadil/navi.git"
+            "url":  "https://github.com/edellirom/navi.git"
         }
     ]
 }
