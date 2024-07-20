@@ -4,7 +4,7 @@
 ```
 {
     "require": {
-        "edellirom/navi": "dev-master"
+        "edellirom/navi": "dev-main"
     },
     "repositories": [
         {
